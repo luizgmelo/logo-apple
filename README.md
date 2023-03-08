@@ -1,2 +1,2 @@
 # logo-apple
- Desenho da logo da apple com CSS
+ Draw logo of apple with CSS
